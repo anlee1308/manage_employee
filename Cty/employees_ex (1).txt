@@ -1,0 +1,42 @@
+We have 3 main pages:
+
+1. employees (default)
+- Total
+- List all searched employees (support paging)
+- Delete button to remove an employee
+- Add button to add a new employee (display a dialog to add)
+- Select and delete multiple employees (display a confirm dialog)
+- List 5 newest employees
+
+2. employee details
+- When clicking on an employee in employees page -> navigate to employee details
+- Edit button to update the employee info (display a dialog to edit)
+- Delete button to delete the employee (display a confirm dialog)
+
+- Left panel: avatar, some general info: position, No, Age, Male/Female/ Phone...
+- Right panel with 4 tabs:
+	- INFORMATIONS
+		Some info: start date, Team, Address, Money per hour
+	- WORKING
+		List all working date 
+		Have a button to add or delete the new date
+	- ADVANCES
+		List all money the employee received
+		Have a button to add or delete the new one
+	- STATISTICS
+		The money that an employee receives in this month (all salary - ADVANCES money)
+		Number of working days
+		Total get
+		Total advances
+		Summary
+
+3. teams
+2 sections
+- List all teams
+- When clicking on a team: display all employees in this team in below section
+- Team, Number of employees
+
+
+Note:
+Employee:
+(No, FullName, Age, sex, address, Position, moneyPerHour, team,...)
