@@ -1,0 +1,13 @@
+Dear all,
+
+This is my training day report for today (12/04/2022).
+
+What I did today:
+- I am researching about  Basic Java Core.
+- I did some exercises to know how to use it.
+
+What I will do next Tuesday ( 13/04/2022).
+- I will learn OOP Java and do some exercises.
+
+Best regards,
+Le Van An
